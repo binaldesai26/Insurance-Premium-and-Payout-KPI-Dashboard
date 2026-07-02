@@ -63,11 +63,19 @@ The report has 6 pages:
 
 ## Screenshots
 
-*(add exported PNGs to the `screenshots/` folder and reference them here, e.g.)*
-```
-![Executive Summary](screenshots/executive-summary.png)
-![Regional Performance](screenshots/regional-performance.png)
-```
+**Summary** — top-level KPIs: 7,299 policies, ₹39,097M total premium, ₹28,410M total premium payable, and underwriting expenses at a glance, with a full policy-level detail table underneath.
+![Summary](screenshots/summary.png)
+
+**Insurance Overview** — premium mix by policy type, policy name, sales agent, state, and occupation, plus a 2016–2024 premium trend line.
+![Insurance Overview](screenshots/insurance-overview.png)
+
+**Investment Value vs Maturity Value** — total premium paid vs. maturity amount by year, with Annualized ROI (%) overlaid to show return trending from 3.26% (2016) up to 19.15% (2024).
+![Investment Value vs Maturity Value](screenshots/investment-vs-maturity-value.png)
+
+**Sales Hierarchy** — drill-down matrix from Zonal Manager → Regional Manager → Sales Agent, with premium and payment totals rolling up at each level.
+![Sales Hierarchy](screenshots/sales-hierarchy.png)
+
+*(Two additional pages — Annual Premium vs Protection Value, and Premium Analysis (5–20 Yrs) — are included in the .pbix file itself.)*
 
 ## Tools Used
 
